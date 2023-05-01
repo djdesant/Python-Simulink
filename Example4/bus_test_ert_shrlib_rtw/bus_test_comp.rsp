@@ -1,0 +1,7 @@
+-IC:\WORK\SOFTWARE\Python\Python-Simulink\Python-Simulink\Example4
+-IC:\WORK\SOFTWARE\Python\Python-Simulink\Python-Simulink\Example4\bus_test_ert_shrlib_rtw
+-I"C:\Program Files\MATLAB\R2020a\extern\include"
+-I"C:\Program Files\MATLAB\R2020a\simulink\include"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\ert"
